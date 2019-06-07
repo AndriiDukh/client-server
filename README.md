@@ -1,2 +1,1 @@
-# client-server
-Client/server RMI 
+# RMI Server
